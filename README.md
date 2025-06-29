@@ -2,6 +2,7 @@
 
 Este é um projeto simples de **Pedra, Papel e Tesoura**, criado como exercício de programação e publicado via **GitHub Pages**.
 
+<img src="./img.png" alt="Imagem do projeto Pedra Papel Tesoura" width="600"/>
 ---
 
 ## 📦 Download
