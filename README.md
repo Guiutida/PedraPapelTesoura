@@ -23,6 +23,30 @@ O projeto está disponível online via GitHub Pages:
 
 ---
 
+## 🎮 Manual do Usuário
+
+### Como jogar:
+
+1. **Escolha sua jogada**  
+   Clique em um dos botões: **Pedra**, **Papel** ou **Tesoura** para jogar contra a IA.
+
+2. **Objetivo do jogo**  
+   O primeiro a vencer **5 rodadas** é declarado o vencedor da partida.
+
+3. **Atenção: Regra especial!**  
+   ❗ **Você não pode jogar Pedra duas vezes seguidas!**  
+   Caso tente, o jogo exibirá uma mensagem e a jogada será bloqueada.
+
+---
+
+### Regras básicas do jogo:
+
+- **Pedra** quebra **Tesoura**  
+- **Tesoura** corta **Papel**  
+- **Papel** embrulha **Pedra**
+
+---
+
 ## 📁 Estrutura do Projeto
 
 PedraPapelTesoura/
