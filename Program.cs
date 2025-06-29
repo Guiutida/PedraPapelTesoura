@@ -67,40 +67,40 @@ while (jogarNovamente)
         Console.WriteLine($"Computador jogou: {nomesJogadas[jogadaIA]}");
 
 
-        // Verifica quem venceu a rodada
+       
         if (ultimaJogadaJogador == jogadaIA)
         {
             Console.WriteLine("Empate!");
         }
         else if (ultimaJogadaJogador == 0 && jogadaIA == 2)
         {
-            // Pedra ganha da Tesoura
+            
             Console.WriteLine("Você venceu essa rodada!");
             pontosJogador++;
         }
         else if (ultimaJogadaJogador == 1 && jogadaIA == 0)
         {
-            // Papel ganha da Pedra
+            
             Console.WriteLine("Você venceu essa rodada!");
             pontosJogador++;
         }
         else if (ultimaJogadaJogador == 2 && jogadaIA == 1)
         {
-            // Tesoura ganha do Papel
+            
             Console.WriteLine("Você venceu essa rodada!");
             pontosJogador++;
         }
         else
         {
-            // Se não foi empate nem vitória do jogador, a IA venceu
+            
             Console.WriteLine("A IA venceu essa rodada.");
             pontosIA++;
         }
 
-        // Mostra o placar atual
+       
         Console.WriteLine($"Placar: Você {pontosJogador} x {pontosIA} IA\n");
 
-        // Verifica quem ganhou o jogo (depois que alguém atinge 5 pontos)
+        
         if (pontosJogador == 5)
         {
             Console.WriteLine("PARABÉNS! Você ganhou o jogo!");
@@ -117,8 +117,8 @@ while (jogarNovamente)
             if (resposta != "s" && resposta != "sim")
             {
                 jogarNovamente = false;
-                Console.WriteLine("Obrigado por jogar! Pressione qualquer tecla para sair...");
-                Console.ReadKey(); // Espera o usuário pressionar uma tecla antes de fechar
+                Console.WriteLine("Obrigado por jogar! Pressione qualquer tecla para sair");
+                Console.ReadKey();
             }
 
 }
