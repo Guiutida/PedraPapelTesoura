@@ -18,7 +18,7 @@ Esse arquivo `.zip` contém o conteúdo da pasta `publish`, com os arquivos pron
 
 O projeto está disponível online via GitHub Pages:
 
-🔗 [Acesse o Pedra, Papel e Tesoura Online](https://guiutida.github.io/PedraPapelTesoura/)
+🔗 [Acesse o Pedra, Papel e Tesoura Online](https://github.com/Guiutida/PedraPapelTesoura)
 
 ---
 
