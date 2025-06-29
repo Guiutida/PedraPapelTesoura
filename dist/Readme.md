@@ -8,7 +8,7 @@ Este é um projeto simples de **Pedra, Papel e Tesoura**, criado como exercício
 
 Você pode baixar a versão final do projeto clicando no link abaixo:
 
-🔗 [Download do projeto (ZIP)](./dist/publish.zip)
+🔗 [Download do projeto (ZIP)](https://raw.githubusercontent.com/Guiutida/PedraPapelTesoura/main/dist/publish.zip)
 
 Esse arquivo `.zip` contém o conteúdo da pasta `publish`, com os arquivos prontos para execução (HTML, CSS, JS, etc.).
 
